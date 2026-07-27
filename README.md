@@ -4,7 +4,7 @@ This app is built to use machine learning to predict the price of gold using mac
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-starter-kit.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ML-Study-project1.streamlit.app/)
 
 ## GitHub Codespaces
 
