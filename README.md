@@ -1,9 +1,6 @@
-# 📦 Streamlit App Starter Kit 
-```
-⬆️ (Replace above with your app's name)
-```
+# 🤖 Machine Learning App  
 
-Description of the app ...
+This app is built to use machine learning to predict the price of gold using machine learning!
 
 ## Demo App
 
