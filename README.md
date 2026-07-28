@@ -1,6 +1,6 @@
 # 🤖 Machine Learning App  
 
-This app is built to use machine learning to predict the price of gold using machine learning!
+This app is built to use machine learning to predict the future price of housing in California!
 
 ## Demo App
 
@@ -12,11 +12,12 @@ This app is built to use machine learning to predict the price of gold using mac
 
 ## Section Heading
 
-This is filler text, please replace this with text for this section.
+Using a data set from The Dataprofessor, Github, and Streamlit we can create a simple display that predicts house values based on many factors in a surrounding area. 
 
 ## Further Reading
 
-This is filler text, please replace this with a explanatory text about further relevant resources for this repo
-- Resource 1
-- Resource 2
+For our resources we used the following:
+- Github to overlay our python and assist in coding
+- DataProfessor has data set that uses various factors to predict what a house should cost depending on factors
+- https://github.com/dataprofessor/data/blob/master/california_housing_test.csv?plain=1 
 - Resource 3
