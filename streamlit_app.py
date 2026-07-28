@@ -3,7 +3,7 @@ import pandas as pd
 
 st.title('Machine Learning Project 1')
 
-st.write('This app is built to use machine learning to predict the price of gold using machine learning!')
+st.write('This app is built to use machine learning to predict the housing value in California using machine learning!')
 
 with st.expander( 'Data'):
   st.write('**Raw Data**')
