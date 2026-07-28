@@ -19,5 +19,6 @@ Using a data set from The Dataprofessor, Github, and Streamlit we can create a s
 For our resources we used the following:
 - Github to overlay our python and assist in coding
 - DataProfessor has data set that uses various factors to predict what a house should cost depending on factors like latitude, longitude, average homeowner age, rooms/beds in the area, how many houses, population, and income
+- Using 9 factors to compare about 900 different scenarios
 - https://github.com/dataprofessor/data/blob/master/california_housing_test.csv?plain=1 
-- Resource 3
+  
